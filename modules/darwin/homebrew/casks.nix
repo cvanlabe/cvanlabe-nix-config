@@ -1,5 +1,5 @@
 { ... }: [
-  "bitwarden"
+  #"bitwarden" # needs to be installed through MAS..else browser integration doesn't work!
   "raycast"
   "balenaetcher"
   "slack"
@@ -13,5 +13,4 @@
   "whatsapp"
   "pycharm-ce"
   "visual-studio-code"
-  "alacritty"
 ]

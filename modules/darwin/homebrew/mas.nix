@@ -1,5 +1,6 @@
 # mas search <app name>
 { ... }: {
+  "Bitwarden" = 1352778147;
   # "BlueSee" = 1336679524;
   # "BT Terminal" = 1511543453;
   # "CocoaPacketAnalyzer" = 418357707;
