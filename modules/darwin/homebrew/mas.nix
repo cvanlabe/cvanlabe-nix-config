@@ -1,6 +1,7 @@
 # mas search <app name>
 { ... }: {
   "Bitwarden" = 1352778147;
+  "Tailscale" = 1475387142;
   # "BlueSee" = 1336679524;
   # "BT Terminal" = 1511543453;
   # "CocoaPacketAnalyzer" = 418357707;
@@ -8,7 +9,7 @@
   # "Deliveries" = 924726344;
   # "Discovery" = 1381004916;
   # "eidReader" = 1190651975;
-  # "Home Assistant" = 1099568401;
+  "Home Assistant" = 1099568401;
   # "LightBlue" = 557428110;
   # "MacFamilyTree 10" = 1567970985;
   # "Microsoft Excel" = 462058435;
@@ -16,7 +17,7 @@
   # "Microsoft Outlook" = 985367838;
   # "Microsoft Remote Desktop" = 1295203466;
   # "Microsoft Word" = 462054704;
-  # "MindNode" = 1289197285;
+  "MindNode" = 1289197285;
   # "MQTT Explorer" = 1455214828;
   # "OmniFocus" = 1346203938;
   # "Overlap" = 1516950324;
