@@ -13,4 +13,5 @@
   "whatsapp"
   "pycharm-ce"
   "visual-studio-code"
+  "zoom"
 ]
