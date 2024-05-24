@@ -34,7 +34,6 @@
       yt-dlp
       zellij
       zip
-      jetbrains.pycharm-community
     ]
     ++ lib.optionals pkgs.stdenv.isLinux [
       ethtool
