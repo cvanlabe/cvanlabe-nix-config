@@ -6,7 +6,7 @@
       FirstClickThreshold = 1; # force feedback
       SecondClickThreshold = 1; # force feedback
       TrackpadRightClick = true;
-      TrackpadThreeFingerDrag = true;
+      TrackpadThreeFingerDrag = false; # we don't want this, as we like threefinger mission control/expose
     };
     NSGlobalDomain = {
       "com.apple.trackpad.scaling" = 2.0; # tracking speed
