@@ -5,7 +5,7 @@
       AppleShowAllFiles = true;
       FXEnableExtensionChangeWarning = false;
       _FXShowPosixPathInTitle = true; # show full path in finder title
-      FXPreferredViewStyle = "Nlsv"; # default to list view
+      FXPreferredViewStyle = "clmv"; # default to column view
     };
     NSGlobalDomain = {
       AppleShowAllExtensions = true;
