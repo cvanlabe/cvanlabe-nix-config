@@ -24,6 +24,7 @@
       nixpkgs-fmt
       openssh
       progress
+      pyenv
       ripgrep
       sops
       ssh-to-age
