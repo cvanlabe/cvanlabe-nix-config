@@ -11,5 +11,11 @@
       AppleShowAllExtensions = true;
       AppleShowAllFiles = true;
     };
+    menuExtraClock = {
+      Show24Hour = true;
+    };
+    screencapture = {
+      location = "~/Pictures/Screenshots";
+    };
   };
 }
