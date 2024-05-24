@@ -15,6 +15,6 @@
   };
 
   # local.dock options are defined in the ./dock module
-  local.dock.enable = true;
-  local.dock.entries = import ./dock-entries.nix { };
+  local.dock.enable = false;
+  #local.dock.entries = import ./dock-entries.nix { };
 }
