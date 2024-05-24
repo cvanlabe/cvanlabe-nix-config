@@ -1,0 +1,17 @@
+{ ... }: [
+  "bitwarden"
+  "raycast"
+  "balenaetcher"
+  "slack"
+  "discord"
+  "etrecheckpro"
+  "logi-options-plus"
+  "notunes"
+  "obsidian"
+  "spotify"
+  "telegram"
+  "whatsapp"
+  "pycharm-ce"
+  "visual-studio-code"
+  "alacritty"
+]
