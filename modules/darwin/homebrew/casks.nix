@@ -2,7 +2,7 @@
   #"bitwarden" # needs to be installed through MAS..else browser integration doesn't work!
   "raycast"
   "balenaetcher"
-  "slack"
+  #"slack" # replaced with MAS
   "discord"
   "etrecheckpro"
   "logi-options-plus"
