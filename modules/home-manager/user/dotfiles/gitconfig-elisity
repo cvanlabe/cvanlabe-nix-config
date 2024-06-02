@@ -1,0 +1,6 @@
+[user]
+name = Cedric Van Labeke
+email = cedric.vanlabeke@elisity.com
+
+[core]
+sshCommand = ssh -i ~/.ssh/id_ed25519-elisity

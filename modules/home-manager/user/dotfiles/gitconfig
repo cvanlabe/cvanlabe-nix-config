@@ -1,0 +1,10 @@
+[user]
+# Please adapt and uncomment the following lines:
+	name = Cedric Van Labeke
+	email = cedric@vanlabeke.dev
+
+# Custom gitconfig for each company we work for
+[includeIf "gitdir:~/Development/Elisity/"]
+  path = .gitconfig-elisity
+#[includeIf "gitdir:~/company_b/"]
+#  path = .gitconfig-company_b
