@@ -3,6 +3,7 @@
   "Bitwarden" = 1352778147;
   "Tailscale" = 1475387142;
   "Slack" = 803453959;
+  "Messenger" = 1480068668;
   # "BlueSee" = 1336679524;
   # "BT Terminal" = 1511543453;
   # "CocoaPacketAnalyzer" = 418357707;
