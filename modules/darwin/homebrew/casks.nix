@@ -14,4 +14,5 @@
   "pycharm-ce"
   "visual-studio-code"
   "zoom"
+  "docker"
 ]
