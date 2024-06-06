@@ -1,8 +1,6 @@
 # Cedric's NIX Config
 
-My config of how I setup a new system typically.
-
-Heavily inspired by [Sam Grimee's config](https://github.com/sgrimee/nix-unified).
+My config of how I setup a new system typically, latest setup mainly focused on my work at Elisity.
 
 Get started:
   ```sh
