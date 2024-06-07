@@ -14,4 +14,4 @@ After changing your flake, re-run it:
    $ darwin-rebuild switch --show-trace --flake .
    ```
 
-   
+or the newly created alias `$ nixswitch` .
