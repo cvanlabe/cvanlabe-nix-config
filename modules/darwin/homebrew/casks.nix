@@ -16,4 +16,6 @@
   "zoom"
   "docker"
   "intellij-idea-ce"
+  "licecap"
+  "studio-3t"
 ]
