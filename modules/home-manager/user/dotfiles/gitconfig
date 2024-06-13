@@ -1,7 +1,6 @@
 [user]
-# Please adapt and uncomment the following lines:
-	name = Cedric Van Labeke
-	email = cedric@vanlabeke.dev
+name = Cedric Van Labeke
+email = cedric@vanlabeke.dev
 
 # Custom gitconfig for each company we work for
 # as per https://stackoverflow.com/questions/8801729/is-it-possible-to-have-different-git-configuration-for-different-projects

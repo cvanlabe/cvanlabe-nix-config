@@ -17,5 +17,6 @@
     ./starship.nix
     ./vscode.nix
     ./zsh.nix
+    ./nvim.nix
   ];
 }
