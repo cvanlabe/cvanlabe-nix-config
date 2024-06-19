@@ -19,4 +19,5 @@
   "licecap"
   "studio-3t"
   "postman"
+  "goland"
 ]

@@ -4,6 +4,7 @@
   "Tailscale" = 1475387142;
   "Slack" = 803453959;
   "Messenger" = 1480068668;
+  "Todoist" = 585829637;
   # "BlueSee" = 1336679524;
   # "BT Terminal" = 1511543453;
   # "CocoaPacketAnalyzer" = 418357707;
