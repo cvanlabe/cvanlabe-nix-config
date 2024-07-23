@@ -20,4 +20,6 @@
   "studio-3t"
   "postman"
   "goland"
+  "chromium"
+  "pgadmin4"
 ]
