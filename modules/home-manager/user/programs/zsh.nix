@@ -4,7 +4,7 @@
     autocd = false;
     defaultKeymap = "emacs";
     enableCompletion = true;
-    enableAutosuggestions = true;
+    autosuggestion.enable = true;
     syntaxHighlighting.enable = true;
 
     # TODO: import the rest from the mac config

@@ -3,8 +3,8 @@
   inputs = {
     # nixpkgs
     unstable.url = "github:nixos/nixpkgs/nixos-unstable";
-    stable-nixos.url = "github:nixos/nixpkgs/nixos-23.11";
-    stable-darwin.url = "github:NixOS/nixpkgs/nixpkgs-23.11-darwin";
+    stable-nixos.url = "github:nixos/nixpkgs/nixos-24.11";
+    stable-darwin.url = "github:NixOS/nixpkgs/nixpkgs-24.11-darwin";
 
     mkAlias = {
       url = "github:reckenrode/mkAlias";
@@ -19,7 +19,7 @@
     };
 
     home-manager = {
-      url = "github:nix-community/home-manager/release-23.11";
+      url = "github:nix-community/home-manager/release-24.11";
       inputs.nixpkgs.follows = "stable-nixos";
     };
 

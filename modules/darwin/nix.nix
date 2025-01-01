@@ -27,7 +27,7 @@
       # automatically hotlink duplicate files
       auto-optimise-store = true;
 
-      sandbox = true;
+      sandbox = false;
 
       # use faster cache
       substituters = [ "https://aseipp-nix-cache.global.ssl.fastly.net" ];

@@ -1,3 +1,3 @@
 [
-  (import ./direnv.nix)
+  #(import ./direnv.nix)
 ]
