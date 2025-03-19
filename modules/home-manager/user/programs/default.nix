@@ -18,5 +18,6 @@
     ./vscode.nix
     ./zsh.nix
     ./nvim.nix
+    ./azurecli.nix
   ];
 }

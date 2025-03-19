@@ -16,14 +16,13 @@
       go
       home-manager
       htop
-      inetutils
       killall
       less
       mitmproxy
       neofetch
       nixpkgs-fmt
       openssh
-      progress
+      progress 
       pyenv
       ripgrep
       sops
