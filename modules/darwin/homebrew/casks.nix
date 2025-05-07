@@ -22,4 +22,6 @@
   "goland"
   "google-chrome"
   "pgadmin4"
+  "brave-browser"
+  "notunes"
 ]
