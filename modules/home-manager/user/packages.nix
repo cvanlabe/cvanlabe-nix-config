@@ -35,6 +35,7 @@
       yt-dlp
       zellij
       zip
+      awscli2
     ]
     ++ lib.optionals pkgs.stdenv.isLinux [
       ethtool
